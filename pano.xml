@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.5" apprev="17926" start="node73">
+  <panorama hideabout="1" id="node73">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="120" tilt="0.269795" pan="2.94458" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837080" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:21" nodeid="node73" info="" longitude="55.099570"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="4.16336" id="Point02" url="{node79}" distance="1.00813"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="267.874" id="Point03" url="{node74}" distance="2.94073"/>
+      <polyhotspot description="" target="_blank" title="ПОСМОТРЕТЬ ЭКСТЕРЬЕР" id="Poly01" url="https://vr360real-hue.github.io/LUKOMORYE/">
+        <polystring>-151.67/36.66|-220.2/32.4|-219.48/-58.07|-153.12/-61.81</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image fov="8.422" height="100" rotx="0.000" roty="0.000" width="100" clickmode="0" tilt="0.620" rotz="0.000" pan="-185.900" handcursor="0" id="Element01" stretch="1.000">
+        <source url="media/39e465d683b54a958a12.gif"/>
+      </image>
+    </media>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node74">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="225.7" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="225.7" comment="" latitude="51.83706221" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:21" nodeid="node74" info="" longitude="55.09953833"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="177.974" id="Point01" url="{node73}" distance="2.94073"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="94.9651" id="Point02" url="{node75}" distance="1.05817"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node75">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-133.8" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-133.8" comment="" latitude="51.837056" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:22" nodeid="node75" info="" longitude="55.099550"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-180.58" id="Point01" url="{node79}" distance="2.92278"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-84.5349" id="Point02" url="{node74}" distance="1.05817"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-268.683" id="Point03" url="{node76}" distance="1.2606"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node76">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837048" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:23" nodeid="node76" info="" longitude="55.099563"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="180.717" id="Point01" url="{node75}" distance="1.2606"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="89.758" id="Point02" url="{node77}" distance="1.43655"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.758" id="Point03" url="{node80}" distance="2.87309"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node77">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837057" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:23" nodeid="node77" info="" longitude="55.099578"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.758" id="Point01" url="{node76}" distance="1.43655"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="89.758" id="Point02" url="{node78}" distance="1.43655"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node78">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837066" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:23" nodeid="node78" info="" longitude="55.099593"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="178.426" id="Point01" url="{node79}" distance="1.21289"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.758" id="Point02" url="{node77}" distance="1.43655"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node79">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-314.2" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-314.2" comment="" latitude="51.837074" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:24" nodeid="node79" info="" longitude="55.099581"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-265.637" id="Point01" url="{node73}" distance="1.00813"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-451.374" id="Point02" url="{node78}" distance="1.21289"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-180.98" id="Point03" url="{node75}" distance="2.92278"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node80">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="131.5" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="131.5" comment="" latitude="51.837030" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:28" nodeid="node80" info="" longitude="55.099533"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="85.658" id="Point01" url="{node76}" distance="2.87309"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="176.173" id="Point03" url="{node81}" distance="1.56363"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-3.82727" id="Point04" url="{node82}" distance="1.56363"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="23.5644" id="Point05" url="{node83}" distance="1.80542"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node81">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837040" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:29" nodeid="node81" info="" longitude="55.099517"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="0.272725" id="Point01" url="{node80}" distance="1.56363"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node82">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837020" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:29" nodeid="node82" info="" longitude="55.099549"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="180.273" id="Point01" url="{node80}" distance="1.56363"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="87.5588" id="Point02" url="{node83}" distance="0.831556"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-1.57407" id="Point03" url="{node84}" distance="1.21289"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node83">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="44.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="44.6" comment="" latitude="51.837025" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:29" nodeid="node83" info="" longitude="55.099558"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="176.559" id="Point01" url="{node82}" distance="0.831556"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="116.664" id="Point02" url="{node80}" distance="1.80542"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-127.285" id="Point03" url="{node84}" distance="1.46016"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node84">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837012" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:30" nodeid="node84" info="" longitude="55.099561"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="178.426" id="Point01" url="{node82}" distance="1.21289"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="143.715" id="Point02" url="{node83}" distance="1.46016"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="0.716896" id="Point03" url="{node85}" distance="1.2606"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node85">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837004" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:30" nodeid="node85" info="" longitude="55.099574"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="180.717" id="Point01" url="{node84}" distance="1.2606"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="92.7741" id="Point02" url="{node88}" distance="1.21289"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-1.57406" id="Point03" url="{node86}" distance="1.81933"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node86">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836992" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:30" nodeid="node86" info="" longitude="55.099592"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="178.426" id="Point01" url="{node85}" distance="1.81933"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="257.666" id="Point02" url="{node87}" distance="2.51338"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="38.764" id="Point03" url="{node89}" distance="1.86838"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node87">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-45.3" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-45.3" comment="" latitude="51.836980" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:31" nodeid="node87" info="" longitude="55.099561"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-103.234" id="Point01" url="{node86}" distance="2.51338"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node88">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-314.3" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-314.3" comment="" latitude="51.837012" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:32" nodeid="node88" info="" longitude="55.099586"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-177.126" id="Point01" url="{node85}" distance="1.21289"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-359.854" id="Point02" url="{node103}" distance="3.17594"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node89">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836990" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:32" nodeid="node89" info="" longitude="55.099619"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="218.764" id="Point01" url="{node86}" distance="1.86838"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="87.0366" id="Point02" url="{node95}" distance="1.00813"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-27.9366" id="Point03" url="{node93}" distance="2.66682"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node90">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="315.8" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="315.8" comment="" latitude="51.836970" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:33" nodeid="node90" info="" longitude="55.099593"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="218.324" id="Point01" url="{node93}" distance="2.56397"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="179.35" id="Point02" url="{node91}" distance="1.99446"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node91">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-134.4" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-134.4" comment="" latitude="51.836957" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:34" nodeid="node91" info="" longitude="55.099613"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-180.809" id="Point01" url="{node93}" distance="1.61267"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-285.464" id="Point02" url="{node92}" distance="2.41408"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-90.8502" id="Point03" url="{node90}" distance="1.99446"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node92">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="225.4" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="225.4" comment="" latitude="51.836938" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:34" nodeid="node92" info="" longitude="55.099630"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="254.336" id="Point01" url="{node91}" distance="2.41408"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="192.894" id="Point02" url="{node94}" distance="4.21923"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node93">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836967" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:34" nodeid="node93" info="" longitude="55.099630"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="152.063" id="Point01" url="{node89}" distance="2.66682"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="218.124" id="Point02" url="{node90}" distance="2.56397"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="53.9696" id="Point03" url="{node94}" distance="2.29175"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.191" id="Point04" url="{node91}" distance="1.61267"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node94">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-314.5" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-314.5" comment="" latitude="51.836970" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:35" nodeid="node94" info="" longitude="55.099663"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-216.13" id="Point01" url="{node93}" distance="2.29175"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-167.006" id="Point02" url="{node92}" distance="4.21923"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node95">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node95/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="225" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="225" comment="" latitude="51.836996" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:35" nodeid="node95" info="" longitude="55.099630"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="356.437" id="Point01" url="{node89}" distance="1.00813"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="163.345" id="Point02" url="{node96}" distance="1.63942"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node96">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node96/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837003" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:36" nodeid="node96" info="" longitude="55.099651"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="253.945" id="Point01" url="{node95}" distance="1.63942"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="91.2272" id="Point02" url="{node97}" distance="1.86672"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node97">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node97/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837015" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:36" nodeid="node97" info="" longitude="55.099670"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="271.227" id="Point01" url="{node96}" distance="1.86672"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="88.9517" id="Point02" url="{node99}" distance="1.13386"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-9.46583" id="Point03" url="{node98}" distance="3.1196"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node98">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node98/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836992" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:37" nodeid="node98" info="" longitude="55.099696"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="170.534" id="Point01" url="{node97}" distance="3.1196"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node99">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node99/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="45.6" comment="" latitude="51.837022" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:38" nodeid="node99" info="" longitude="55.099682"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="178.952" id="Point01" url="{node97}" distance="1.13386"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="59.483" id="Point02" url="{node101}" distance="2.86352"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="107.255" id="Point03" url="{node100}" distance="2.57388"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node100">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node100/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="225.3" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="225.3" comment="" latitude="51.83703299" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:39" nodeid="node100" info="" longitude="55.09964903"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="106.955" id="Point01" url="{node99}" distance="2.57388"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="179.928" id="Point02" url="{node101}" distance="2.21757"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node101">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node101/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837047" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:40" nodeid="node101" info="" longitude="55.099672"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-30.517" id="Point01" url="{node99}" distance="2.86352"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="75.1287" id="Point02" url="{node102}" distance="1.57928"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="270.228" id="Point03" url="{node100}" distance="2.21757"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node102">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node102/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837054" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:41" nodeid="node102" info="" longitude="55.099692"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="255.129" id="Point01" url="{node101}" distance="1.57928"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node103">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node103/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45.7" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="45.7" comment="" latitude="51.837032" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:42" nodeid="node103" info="" longitude="55.099619"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="180.146" id="Point01" url="{node88}" distance="3.17594"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-87.9108" id="Point02" url="{node104}" distance="5.63103"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node104">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node104/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="45.6" comment="" latitude="51.83699707" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:43" nodeid="node104" info="" longitude="55.09967834"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="91.9891" id="Point01" url="{node103}" distance="5.63103"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-95.4183" id="Point02" url="{node105}" distance="2.9839"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node105">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node105/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.83697621" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:44" nodeid="node105" info="" longitude="55.09970566"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="271.68" id="Point01" url="{node121}" distance="1.51747"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="86.6428" id="Point02" url="{node106}" distance="1.48853"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="174.582" id="Point03" url="{node104}" distance="2.9839"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node106">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node106/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836985" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:44" nodeid="node106" info="" longitude="55.099722"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="266.643" id="Point01" url="{node105}" distance="1.48853"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="92.5202" id="Point02" url="{node107}" distance="3.29747"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node107">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node107/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-314.7" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-314.7" comment="" latitude="51.83700666" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:44" nodeid="node107" info="" longitude="55.09975478"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-177.78" id="Point01" url="{node106}" distance="3.29747"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-293.654" id="Point02" url="{node109}" distance="3.01907"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node108">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node108/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45.1" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="45.1" comment="" latitude="51.837038" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:45" nodeid="node108" info="" longitude="55.099707"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-61.7803" id="Point01" url="{node109}" distance="2.29763"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="54.3358" id="Point02" url="{node110}" distance="2.14045"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="150.913" id="Point03" url="{node111}" distance="2.85639"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="120.429" id="Point04" url="{node112}" distance="4.82956"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node109">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node109/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-44.5" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-44.5" comment="" latitude="51.837032" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:45" nodeid="node109" info="" longitude="55.099739"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-203.454" id="Point01" url="{node107}" distance="3.01907"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="28.6197" id="Point02" url="{node108}" distance="2.29763"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node110">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node110/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837057" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:46" nodeid="node110" info="" longitude="55.099702"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-35.1642" id="Point01" url="{node108}" distance="2.14045"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="275.847" id="Point02" url="{node111}" distance="3.76047"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="237.213" id="Point03" url="{node112}" distance="4.41902"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node111">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node111/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="225.7" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="225.7" comment="" latitude="51.837031" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:46" nodeid="node111" info="" longitude="55.099667"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="151.513" id="Point01" url="{node108}" distance="2.85639"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="185.947" id="Point02" url="{node110}" distance="3.76047"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.566" id="Point03" url="{node112}" distance="2.77616"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node112">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node112/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-134.8" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-134.8" comment="" latitude="51.837049" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:47" nodeid="node112" info="" longitude="55.099639"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-213.187" id="Point01" url="{node110}" distance="4.41902"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-239.471" id="Point02" url="{node108}" distance="4.82956"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-270.934" id="Point03" url="{node111}" distance="2.77616"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="0.527276" id="Point04" url="{node113}" distance="2.34544"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node113">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node113/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837034" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:47" nodeid="node113" info="" longitude="55.099615"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.321" id="Point01" url="{node114}" distance="2.0915"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="90.9273" id="Point02" url="{node112}" distance="2.34544"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node114">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node114/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.837021" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:48" nodeid="node114" info="" longitude="55.099593"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-25.1394" id="Point01" url="{node115}" distance="2.35575"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="89.3209" id="Point02" url="{node113}" distance="2.0915"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node115">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node115/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.83700100" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:48" nodeid="node115" info="" longitude="55.09960431"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="154.861" id="Point01" url="{node114}" distance="2.35575"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="294.873" id="Point02" url="{node117}" distance="2.97224"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="256.869" id="Point03" url="{node116}" distance="2.99913"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="9.55904" id="Point04" url="{node119}" distance="2.26788"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node116">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-44.5" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-44.5" comment="" latitude="51.836987" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:49" nodeid="node116" info="" longitude="55.099567"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-173.479" id="Point01" url="{node117}" distance="1.94446"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="2.14832" id="Point02" url="{node118}" distance="1.13386"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-103.231" id="Point03" url="{node115}" distance="2.99913"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node117">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="130.45" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="130.45" comment="" latitude="51.836976" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:49" nodeid="node117" info="" longitude="55.099589"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="109.723" id="Point01" url="{node115}" distance="2.97224"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="181.471" id="Point02" url="{node116}" distance="1.94446"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node118">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node118/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="315.4" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="315.4" comment="" latitude="51.836994" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:50" nodeid="node118" info="" longitude="55.099555"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="182.048" id="Point01" url="{node116}" distance="1.13386"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node119">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.6" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="135.6" comment="" latitude="51.836989" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:51" nodeid="node119" info="" longitude="55.099631"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="189.559" id="Point01" url="{node115}" distance="2.26788"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="10.8551" id="Point02" url="{node120}" distance="1.75595"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node120">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node120/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="63.4" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="63.4" comment="" latitude="51.836980" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:51" nodeid="node120" info="" longitude="55.099652"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="118.655" id="Point01" url="{node119}" distance="1.75595"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node121">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node121/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-134.3" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-134.3" comment="" latitude="51.83696638" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:55" nodeid="node121" info="" longitude="55.09969034"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-178.22" id="Point01" url="{node105}" distance="1.51747"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="0.269034" id="Point02" url="{node122}" distance="4.1799"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node122">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node122/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="315.3" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="315.3" comment="" latitude="51.836940" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:56" nodeid="node122" info="" longitude="55.099647"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="269.869" id="Point01" url="{node121}" distance="4.1799"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="447.613" id="Point02" url="{node123}" distance="1.48661"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node123">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node123/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-44.7" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="-44.7" comment="" latitude="51.836931" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:56" nodeid="node123" info="" longitude="55.099631"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-92.3872" id="Point01" url="{node122}" distance="1.48661"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-0.190456" id="Point02" url="{node124}" distance="3.43034"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node124">
+    <input leveltilesize="510" height="2752" overlap="1" width="2752" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2752" width="2752" predecode="0"/>
+      <level preload="0" height="1376" width="1376" predecode="0"/>
+      <level preload="0" height="688" width="688" predecode="0"/>
+      <level preload="1" height="344" width="344" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="45.4" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" fov="120" tilt="90" pan="360" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="45.4" comment="" latitude="51.836953" source="" title="Банный Комплекс Лукоморье" copyright="" altitude="0" customnodeid="" author="" tags="ЯНДЕКС" datetime="30.05.2023 15:57" nodeid="node124" info="" longitude="55.099596"/>
+    <hotspots height="0" width="180" wordwrap="1">
+      <label enabled="1" borderalpha="1" bordercolor="0x000000" height="0" textalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" border="0"/>
+      <polystyle borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" tilt="0" target="$fwd" title="Банный Комплекс Лукоморье" pan="-90.0904" id="Point01" url="{node123}" distance="3.43034"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" softedge="0" zoomfov="20" zoomin="0" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" heading="0" comment="" latitude="" source="" title="" copyright="" customnodeid="" author="" tags="" datetime="" nodeid="master" info="" longitude=""/>
+  </masternode>
+</tour>
